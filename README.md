@@ -8,6 +8,8 @@ The purpose of this task is to see how you solve problems and to make sure that 
 We've scaffolded a very basic project that will serve as your starting point for the task.
 Make sure you've got eslint integrated in your editor or run the lint task and fix any errors before submitting your code for review. If there's a rule you disagree with, you can change it but we will ask you to motivate why during our feedback session on this task.
 
+___
+
 What the test app should do:
 
 * Display a custom loading component for 3 seconds that uses the [React Native Animated library](https://facebook.github.io/react-native/docs/animated.html)
