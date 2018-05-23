@@ -9,9 +9,9 @@ We've scaffolded a very basic project that will serve as your starting point for
 Make sure you've got eslint integrated in your editor or run the lint task and fix any errors before submitting your code for review. If there's a rule you disagree with, you can change it but we will ask you to motivate why during our feedback session on this task.
 
 What the test app should do:
-* Display a custom loading component for 3 seconds that uses the [React Native Animated library](https://facebook.github.io/react-native/docs/animated.html).
-* Fetch user data from https://reqres.in/
-* Display those users in a scrollable view that lazy loads more users when you've reached the bottom of the list, if there are no more users to load it should indicate that there are no more users.
+- Display a custom loading component for 3 seconds that uses the [React Native Animated library](https://facebook.github.io/react-native/docs/animated.html).
+- Fetch user data from https://reqres.in/
+- Display those users in a scrollable view that lazy loads more users when you've reached the bottom of the list, if there are no more users to load it should indicate that there are no more users.
 
 We've prepared some screenshots in the design folder as well as a video of what the loading component should look like.
 
