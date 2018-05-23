@@ -2,7 +2,7 @@
 
 Hi there, we're really excited that you've made it this far in our interview process and look forward to getting to know you better.
 
-At Ombori, we strive to build fantastic apps using well structured and effecient code.
+At Ombori, we strive to build fantastic apps using well structured and efficient code.
 The purpose of this task is to see how you solve problems and to make sure that you follow our linting rules as well as industry best practices.
 
 We've scaffolded a very basic project that will serve as your starting point for the task.
