@@ -68,7 +68,7 @@ class Users extends Component {
             onRefresh={() => this.usersRefresh()}
             refreshing={refreshing}
             onEndReached={() => this.handleEndList()}
-            onEndReachedThreshold={0}
+            onEndReachedThreshold={0.1}
             renderItem={({ item }) => (
               <View style={styles.userContainer}>
                 <Image style={styles.userImage} source={{ uri: item.avatar }} />
